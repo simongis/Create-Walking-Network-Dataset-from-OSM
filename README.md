@@ -2,7 +2,7 @@
 
 Build a topologically correct pedestrian Network Dataset for any Australian city using free OpenStreetMap data. The output supports pedestrian routing, walk catchment analysis (Service Area), and transit accessibility studies in ArcGIS Pro Network Analyst.
 
-> **Blog post:** *(coming soon)*
+> **Blog post:** *[(here)](https://esriaustraliatechblog.wordpress.com/2026/04/07/create-nd-from-osm/)*
 
 ---
 
