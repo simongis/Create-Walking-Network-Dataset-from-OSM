@@ -1,0 +1,25 @@
+# Large OSM data files — download separately from Geofabrik
+*.osm
+*.pbf
+*.gpkg
+
+# ArcGIS File Geodatabase folders
+*.gdb/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Data formats
+*.parquet
+
+# Private development reference material
+ref/
+
+# Claude Code project memory
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
